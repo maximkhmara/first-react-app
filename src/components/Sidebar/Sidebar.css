@@ -1,0 +1,12 @@
+.sidebar-wrapper {
+  width: 20%;
+  height: 100%;
+  background: #f2a91b;
+  border-radius: 16px;
+  padding: 60px 40px;
+}
+.sidebar-item {
+  color: #000;
+  font-size: 26px;
+  margin-bottom: 60px;
+}

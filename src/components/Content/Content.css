@@ -1,0 +1,11 @@
+.content-wrapper {
+  width: 80%;
+  padding: 60px 40px;
+  border-radius: 16px;
+  background: #92d6c5;
+  font-size: 18px;
+  line-height: 140%;
+  p {
+    margin: 0;
+  }
+}
