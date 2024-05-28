@@ -7,8 +7,6 @@ const Sidebar = () => {
 			<div className='sidebar-item'>Name element</div>
 			<div className='sidebar-item'>Name element</div>
 			<div className='sidebar-item'>Name element</div>
-			<div className='sidebar-item'>Name element</div>
-			<div className='sidebar-item'>Name element</div>
 		</div>
 	);
 };
